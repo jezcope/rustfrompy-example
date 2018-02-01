@@ -1,0 +1,10 @@
+[package]
+name = "rustfrompy"
+version = "0.1.0"
+authors = ["Jez Cope <j.cope@erambler.co.uk>"]
+
+[dependencies]
+
+[lib]
+name = "rustfrompy"
+crate-type = ["cdylib"]
